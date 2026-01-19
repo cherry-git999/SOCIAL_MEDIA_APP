@@ -115,6 +115,8 @@ Make sure you have installed:
 - **npm**
 - **MongoDB** (local or cloud)
 
+  
+```
 ### Frontend Setup
 
 ```bash
